@@ -22,6 +22,7 @@ public class WhatsAppview {
 		System.out.println("Enter yor choice");
 		int c=scan.nextInt();
 		
+		
 		WhatsAppControllerInterface wc=new WhatsAppController();
 		
 		switch(c) {
